@@ -2,7 +2,7 @@
 
 Add a text watermark to every page of a PDF using pdf.js canvas rendering with configurable position, font size, color, and opacity, with output as per-page JPEG downloads.
 
-**Live Demo:** https://file-converter-free.com/en/pdf-tools/pdf-watermark
+**Live Demo:** https://file-converter-free.com/en/pdf-tools/pdf-watermark-online
 
 ## How It Works
 
